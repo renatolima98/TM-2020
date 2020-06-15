@@ -37,4 +37,3 @@ $(document).ready(function(){
         Prism.highlightAll();
         $("#page" + startPage).click();
     });
-});
